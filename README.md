@@ -12,7 +12,7 @@ Chalets · Villas · Apartments · Studios · Hotels — book directly, or throu
 ![Auth](https://img.shields.io/badge/Auth-JWT_%2B_Google-success)
 ![Status](https://img.shields.io/badge/Status-Active_Development-orange)
 
-[📱 Download APK](../../releases/latest) · [✨ Features](#-features) · [📸 Screenshots](#-screenshots) · [🏗 Architecture](#-architecture) · [🗺 Roadmap](#-roadmap)
+[📱 Download APK](../../releases/latest) · [✨ Features](#-features) · [📸 Screenshots](#-Screenshots) · [🏗 Architecture](#-architecture) · [🗺 Roadmap](#-roadmap)
 
 </div>
 
