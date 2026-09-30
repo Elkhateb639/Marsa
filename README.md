@@ -126,7 +126,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Login | Register |
 |:---:|:---:|
-| <img src="docs/screenshots/login_light.png" width="250"> | <img src="docs/screenshots/register_light.png" width="250"> |
+| <img src="Docs/Screenshots/login_light.png" width="250"> | <img src="docs/screenshots/register_light.png" width="250"> |
 
 ---
 
