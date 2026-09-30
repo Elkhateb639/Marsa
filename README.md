@@ -139,9 +139,9 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 #### 🔎 Filtering
 
 <p>
-  <img src="docs/screenshots/filter1_light.png" width="250">
-  <img src="docs/screenshots/filter_dark.png" width="250">
-  <img src="docs/screenshots/filter3_light.png" width="250">
+  <img src="Docs/Screenshots/filter1_light.png" width="250">
+  <img src="Docs/Screenshots/filter_dark.png" width="250">
+  <img src="Docs/Screenshots/filter3_light.png" width="250">
 </p>
 
 ---
@@ -149,9 +149,9 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 ### 🏡 Unit Details
 
 <p>
-  <img src="docs/screenshots/details1_dark.png" width="250">
-  <img src="docs/screenshots/details2_dark.png" width="250">
-  <img src="docs/screenshots/details3_light.png" width="250">
+  <img src="Docs/Screenshots/details1_dark.png" width="250">
+  <img src="Docs/Screenshots/details2_dark.png" width="250">
+  <img src="Docs/Screenshots/details3_light.png" width="250">
 </p>
 
 ---
@@ -160,11 +160,11 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Date Selection | Date Selection | Booking Summary |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/date_step_light.png" width="250"> | <img src="docs/screenshots/date_step2_dark.png" width="250"> | <img src="docs/screenshots/summary_step_dark.png" width="250"> |
+| <img src="Docs/Screenshots/date_step_light.png" width="250"> | <img src="Docs/Screenshots/date_step2_dark.png" width="250"> | <img src="Docs/Screenshots/summary_step_dark.png" width="250"> |
 
 | Payment | Confirmation | Booking Status |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/payment_step2_dark.png" width="250"> | <img src="docs/screenshots/appointment_done_light.png" width="250"> | <img src="docs/screenshots/appointment_done2_dark.png" width="250"> |
+| <img src="Docs/Screenshots/payment_step2_dark.png" width="250"> | <img src="Docs/Screenshots/appointment_done_light.png" width="250"> | <img src="Docs/Screenshots/appointment_done2_dark.png" width="250"> |
 
 ---
 
@@ -172,7 +172,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Empty State | Loading State | Favorites List |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/fav_empty.png" width="250"> | <img src="docs/screenshots/fav_loading.png" width="250"> | <img src="docs/screenshots/fav_dark.png" width="250"> |
+| <img src="Docs/Screenshots/fav_empty.png" width="250"> | <img src="Docs/Screenshots/fav_loading.png" width="250"> | <img src="Docs/Screenshots/fav_dark.png" width="250"> |
 
 ---
 
@@ -180,7 +180,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | All Appointments | Completed | Cancelled |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/all_appointments_dark.png" width="250"> | <img src="docs/screenshots/my_appointments_completed_dark.png" width="250"> | <img src="docs/screenshots/my_appointments_canceld_light.png" width="250"> |
+| <img src="Docs/Screenshots/all_appointments_dark.png" width="250"> | <img src="Docs/Screenshots/my_appointments_completed_dark.png" width="250"> | <img src="Docs/Screenshots/my_appointments_canceld_light.png" width="250"> |
 
 ---
 
@@ -188,7 +188,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Profile | Edit Profile | Theme |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/profile_light.png" width="250"> | <img src="docs/screenshots/edit_profile_light.png" width="250"> | <img src="docs/screenshots/theme_light.png" width="250"> |
+| <img src="Docs/Screenshots/profile_light.png" width="250"> | <img src="Docs/Screenshots/edit_profile_light.png" width="250"> | <img src="Docs/Screenshots/theme_light.png" width="250"> |
 
 ---
 
