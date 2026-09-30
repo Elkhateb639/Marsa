@@ -118,11 +118,11 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 > Screenshots showcase the main application flows, UI states, booking experience, and user features.
 
-### 🔐 Authentication
+## 🔐 Authentication
 
 | Login | Register |
 |:---:|:---:|
@@ -130,13 +130,13 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 ---
 
-### 🏠 Home & Discovery
+## 🏠 Home & Discovery
 
 | Loading | Home | Units |
 |:---:|:---:|:---:|
 | <img src="Docs/Screenshots/home_loading_light.png" width="250"> | <img src="Docs/Screenshots/home4_light.png" width="250"> | <img src="Docs/Screenshots/home3_light.png" width="250"> |
 
-#### 🔎 Filtering
+### 🔎 Filtering
 
 <p>
   <img src="Docs/Screenshots/filter1_light.png" width="250">
@@ -146,7 +146,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 ---
 
-### 🏡 Unit Details
+## 🏡 Unit Details
 
 <p>
   <img src="Docs/Screenshots/details1_dark.png" width="250">
@@ -156,7 +156,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 ---
 
-### 📅 Booking Flow
+## 📅 Booking Flow
 
 | Date Selection | Date Selection | Booking Summary |
 |:---:|:---:|:---:|
@@ -167,6 +167,8 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 | <img src="Docs/Screenshots/payment_step2_dark.png" width="250"> | <img src="Docs/Screenshots/appointment_done_light.png" width="250"> | <img src="Docs/Screenshots/appointment_done2_dark.png" width="250"> |
 
 ---
+
+## 👤 User Features
 
 ### ❤️ Favorites
 
