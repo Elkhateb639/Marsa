@@ -12,7 +12,7 @@ Chalets · Villas · Apartments · Studios · Hotels — book directly, or throu
 ![Auth](https://img.shields.io/badge/Auth-JWT_%2B_Google-success)
 ![Status](https://img.shields.io/badge/Status-Active_Development-orange)
 
-[📱 Download APK](../../releases/latest) · [✨ Features](#-features) · [📸 Screenshots](#-Screenshots) · [🏗 Architecture](#-architecture) · [🗺 Roadmap](#-roadmap)
+[📱 Download APK](../../releases/latest) · [✨ Features](#-features) · [🏗 Architecture](#-architecture) · [🗺 Roadmap](#-roadmap)
 
 </div>
 
@@ -118,81 +118,6 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 ---
 
-# 📸 Screenshots
-
-> Screenshots showcase the main application flows, UI states, booking experience, and user features.
-
-## 🔐 Authentication
-
-| Login | Register |
-|:---:|:---:|
-| <img src="Docs/Screenshots/login_light.png" width="250"> | <img src="Docs/Screenshots/register_light.png" width="250"> |
-
----
-
-## 🏠 Home & Discovery
-
-| Loading | Home | Units |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/home_loading_light.png" width="250"> | <img src="Docs/Screenshots/home4_light.png" width="250"> | <img src="Docs/Screenshots/home3_light.png" width="250"> |
-
-### 🔎 Filtering
-
-<p>
-  <img src="Docs/Screenshots/filter1_light.png" width="250">
-  <img src="Docs/Screenshots/filter_dark.png" width="250">
-  <img src="Docs/Screenshots/filter3_light.png" width="250">
-</p>
-
----
-
-## 🏡 Unit Details
-
-<p>
-  <img src="Docs/Screenshots/details1_dark.png" width="250">
-  <img src="Docs/Screenshots/details2_dark.png" width="250">
-  <img src="Docs/Screenshots/details3_light.png" width="250">
-</p>
-
----
-
-## 📅 Booking Flow
-
-| Date Selection | Date Selection | Booking Summary |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/date_step_light.png" width="250"> | <img src="Docs/Screenshots/date_step2_dark.png" width="250"> | <img src="Docs/Screenshots/summary_step_dark.png" width="250"> |
-
-| Payment | Confirmation | Booking Status |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/payment_step2_dark.png" width="250"> | <img src="Docs/Screenshots/appointment_done_light.png" width="250"> | <img src="Docs/Screenshots/appointment_done2_dark.png" width="250"> |
-
----
-
-## 👤 User Features
-
-### ❤️ Favorites
-
-| Empty State | Loading State | Favorites List |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/fav_empty.png" width="250"> | <img src="Docs/Screenshots/fav_loading.png" width="250"> | <img src="Docs/Screenshots/fav_dark.png" width="250"> |
-
----
-
-### 📋 My Appointments
-
-| All Appointments | Completed | Cancelled |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/all_appointments_dark.png" width="250"> | <img src="Docs/Screenshots/my_appointments_completed_dark.png" width="250"> | <img src="Docs/Screenshots/my_appointments_canceld_light.png" width="250"> |
-
----
-
-### 👤 Profile
-
-| Profile | Edit Profile | Theme |
-|:---:|:---:|:---:|
-| <img src="Docs/Screenshots/profile_light.png" width="250"> | <img src="Docs/Screenshots/edit_profile_light.png" width="250"> | <img src="Docs/Screenshots/theme_light.png" width="250"> |
-
----
 
 ## 🏗 Architecture
 
