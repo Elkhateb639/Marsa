@@ -126,7 +126,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Login | Register |
 |:---:|:---:|
-| <img src="Docs/Screenshots/login_light.png" width="250"> | <img src="docs/screenshots/register_light.png" width="250"> |
+| <img src="Docs/Screenshots/login_light.png" width="250"> | <img src="Docs/Screenshots/register_light.png" width="250"> |
 
 ---
 
@@ -134,7 +134,7 @@ Each booking receives a human-readable reference in the format `BK-YYYY-MM-NNNN`
 
 | Loading | Home | Units |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/home_loading_light.png" width="250"> | <img src="docs/screenshots/home4_light.png" width="250"> | <img src="docs/screenshots/home3_light.png" width="250"> |
+| <img src="Docs/Screenshots/home_loading_light.png" width="250"> | <img src="Docs/Screenshots/home4_light.png" width="250"> | <img src="Docs/Screenshots/home3_light.png" width="250"> |
 
 #### 🔎 Filtering
 
